@@ -1,0 +1,7 @@
+
+[[pattern]]
+description = 'Nmap script found a potential vulnerability. ({match})'
+pattern = 'State: (?:(?:LIKELY\_?)?VULNERABLE)'
+
+[[pattern]]
+pattern = '(?i)unauthorized'
