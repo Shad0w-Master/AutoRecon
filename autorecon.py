@@ -1,11 +1,5 @@
 #!/usr/bin/python3
-#
-#    AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
-#
-#    This program can be redistributed and/or modified under the terms of the
-#    GNU General Public License, either version 3 of the License, or (at your
-#    option) any later version.
-#
+
 
 import argparse
 import asyncio
